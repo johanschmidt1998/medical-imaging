@@ -1,3 +1,4 @@
+The annotation process went reasonably well. We found a few of the photos challenging to deal with due to a variety of reasons listed below.
 
 J1
 
@@ -18,8 +19,6 @@ PAT_386_784_470 - This image presents a lesion that appears to be a circular are
 
 
 J3
-
-The annotation process went reasonably well. We found a few of the photos challenging to deal with due to a variety of reasons listed below.
 
 PAT_1034_160_819.png	- Nothing about the image indicates precicely where the lesion is
 
