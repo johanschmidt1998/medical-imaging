@@ -3,7 +3,7 @@ The annotation process went reasonably well. We found a few of the photos challe
 PAT_1034_160_819.png	
 
 PAT_1402_1376_507.png
-
+j
 PAT_1412_1421_512.png
 
 PAT_1452_1564_377.png
