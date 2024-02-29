@@ -32,3 +32,15 @@ PAT_377_1580_429.png - This image contained quite a bit of redness and it was no
 
 PAT_566_179_23.png - It was quite ambigutous what the leison was in this image.
 
+PAT_67_104_695 - Image contains dark spot with holes - easy to annotate
+
+PAT_282_433_934 - Image contains a lesion with red and light spots. The lesion is marked which made it easy to spot.
+
+PAT_282_433_934- This image displays a lesion that is sutured, surrounded by markings that are likely surgical pen markings.
+
+PAT_386_784_470 - This image presents a lesion that appears to be a circular area with a reddish-brown color and a somewhat smooth texture.
+
+
+
+
+
