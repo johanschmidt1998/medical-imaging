@@ -1,28 +1,3 @@
-The annotation process went reasonably well. We found a few of the photos challenging to deal with due to a variety of reasons listed below.
-
-PAT_1034_160_819.png	- Nothing about the image indicates precicely where the lesion is
-
-PAT_1402_1376_507.png -  Similar to the last image, and includes some scaring around the focal point
-j
-PAT_1412_1421_512.png - Discolouration but this seems to be apparent throughout the entire image, not just the center of the image, so it isn't obvious what part of the image is referrenced 
-
-PAT_1452_1564_377.png - No clear sign of anything that would be considered dangerous or cancerous
-
-PAT_1468_1622_219.png
-
-PAT_1536_1819_91.png
-
-PAT_1569_2456_393.png
-
-PAT_1729_3235_712.png
-
-PAT_1739_3261_325.png
-
-PAT_2024_4224_141.png
-
-PAT_2153_4782_321.png 
-
-
 
 J1
 
@@ -42,5 +17,29 @@ PAT_386_784_470 - This image presents a lesion that appears to be a circular are
 
 
 
+J3
 
+The annotation process went reasonably well. We found a few of the photos challenging to deal with due to a variety of reasons listed below.
+
+PAT_1034_160_819.png	- Nothing about the image indicates precicely where the lesion is
+
+PAT_1402_1376_507.png -  Similar to the last image, and includes some scaring around the focal point
+
+PAT_1412_1421_512.png - Discolouration but this seems to be apparent throughout the entire image, not just the center of the image, so it isn't obvious what part of the image is referrenced 
+
+PAT_1452_1564_377.png - No clear sign of anything that would be considered dangerous or cancerous
+
+PAT_1468_1622_219.png - This image has a lot of irritation on the skin which makes it hard to identify which parts can be considered lesion
+
+PAT_1536_1819_91.png - Practically no lesion in this image, just light scaring at a very small point. Image is also extremely small and therefore the quality is sub-optimal
+
+PAT_1569_2456_393.png - This image contains a lot of wrinkles which makes is impacting the shape and size of the lesion, making it hard to identify. Along with this there are a lot of changes and inconsistencies with the colour.
+
+PAT_1729_3235_712.png - Unapparent what spot in this image is lesion rather than dry skin.
+
+PAT_1739_3261_325.png - Very light lesion and is coloured almost the same as the skin colour, making it hard to identify and mask.
+
+PAT_2024_4224_141.png - Lesion appears to be dominating the image, making it particularly hard to identify which parts are unaffected.
+
+PAT_2153_4782_321.png - Once again, lesion is coloured almost the same as the skin colour, making it hard to identify and mask.
 
