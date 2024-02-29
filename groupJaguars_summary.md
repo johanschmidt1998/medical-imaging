@@ -28,7 +28,7 @@ PAT_680_1289_585
 	 
 Source: Dermnet	This appears to be a well-demarcated, pigmented lesion with an irregular outline that could be suggestive of a nevus.
 
-The table highlights a few of our findings among a longer list of possible diagnosis in the dataset we have been provided with including melanocytic, melanoma, squamous cell carcinoma, Basal cell carcinoma, psoriasis, eczema, and dermatofibroma. 
+These images of lesion and their descriptions highlights a few of our findings among a longer list of possible diagnosis in the dataset we have been provided with including melanocytic, melanoma, squamous cell carcinoma, Basal cell carcinoma, psoriasis, eczema, and dermatofibroma. 
 
 Observations and conclusion
 After inspecting the images we have annotated them by coloring the lesion in label studio. Some of the images contained lesions that were difficult to annotate which made us skip them and focus on the ones where the lesions were clear and easy to annotate. However, this still resulted in over 100 images of lesion.
