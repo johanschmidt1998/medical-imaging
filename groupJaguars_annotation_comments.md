@@ -24,11 +24,11 @@ PAT_2153_4782_321.png
 
 
 
-johan:
+J1
 
-PAT_15_3138_959.png
+PAT_15_3138_959.png - This particular image contained a few brighter spots but it was unclear exactly what had to be marked.
 
-PAT_377_1580_429.png
+PAT_377_1580_429.png - This image contained quite a bit of redness and it was not quite clear exactly what had to be annotated.
 
-PAT_566_179_23.png
+PAT_566_179_23.png - It was quite ambigutous what the leison was in this image.
 
