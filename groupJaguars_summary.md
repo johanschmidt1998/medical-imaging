@@ -15,10 +15,14 @@ PAT_625_1184_412
 Source: Dermnet	
 
 This lesion appears to be a raised nodule with a mix of pigmentation, including pink and darker areas that may suggest melanocytic activity.
+
  
 PAT_629_1192_362	 
+
 Source: Dermnet	
+
 This lesion shows a lesion with an irregular border and colors ranging from red to purple with crusting. A diagnosis could be psoriasis or eczema.
+
  
 PAT_680_1289_585
 	 
