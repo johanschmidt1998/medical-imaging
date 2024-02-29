@@ -30,7 +30,7 @@ PAT_15_3138_959.png - This particular image contained a few brighter spots but i
 
 PAT_377_1580_429.png - This image contained quite a bit of redness and it was not quite clear exactly what had to be annotated.
 
-PAT_566_179_23.png - It was quite ambigutous what the leison was in this image.
+PAT_566_179_23.png - It was quite ambiguous what the leison was in this image.
 
 PAT_67_104_695 - Image contains dark spot with holes - easy to annotate
 
