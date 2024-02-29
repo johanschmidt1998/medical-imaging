@@ -10,8 +10,10 @@ Types of diagnosis
 Through thorough examination we have come to discover a range of diagnosis present in the images. Despite limited medical knowledge we have tried to go through the photos and compare them to different images found in medical journals on google scholar and dermnetnz. Below are our own images, and underneath them contain a description of our suggestion as to what the diagnosis of the image may be. 
 
  
-PAT_625_1184_412	 
+PAT_625_1184_412
+
 Source: Dermnet	
+
 This lesion appears to be a raised nodule with a mix of pigmentation, including pink and darker areas that may suggest melanocytic activity.
  
 PAT_629_1192_362	 
