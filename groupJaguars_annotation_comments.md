@@ -1,4 +1,4 @@
-
+The annotation process went reasonably well. We found a few of the photos challenging to deal with due to a variety of reasons listed below.
 
 PAT_1034_160_819.png	
 
