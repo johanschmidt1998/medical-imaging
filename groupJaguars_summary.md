@@ -28,6 +28,12 @@ PAT_680_1289_585
 	 
 Source: Dermnet	This appears to be a well-demarcated, pigmented lesion with an irregular outline that could be suggestive of a nevus.
 
+PAT_787_1482_328
+
+Source: Dermnet
+
+This lesion has a black center with a circular brown spots. It has multiple parts in a specific area of the skin. It can be diagnosed as Cutaneous squamous cell carcinoma (SCC) which usually begins as a tender erythematous papule or nodule that may have a variable amount of hyperkeratosis. Older lesions may ulcerate.
+
 These images of lesion and their descriptions highlights a few of our findings among a longer list of possible diagnosis in the dataset we have been provided with including melanocytic, melanoma, squamous cell carcinoma, Basal cell carcinoma, psoriasis, eczema, and dermatofibroma. 
 
 Observations and conclusion
