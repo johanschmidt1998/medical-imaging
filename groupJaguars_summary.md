@@ -9,6 +9,7 @@ As part of the project our group has been provided with part of the public data 
 Types of diagnosis
 Through thorough examination we have come to discover a range of diagnosis present in the images. Despite limited medical knowledge we have tried to go through the photos and compare them to different images found in medical journals on google scholar and dermnetnz. Below are our own images, and underneath them contain a description of our suggestion as to what the diagnosis of the image may be. 
 
+
  
 PAT_625_1184_412
 
@@ -35,6 +36,9 @@ Source: Dermnet
 This lesion has a black center with a circular brown spots. It has multiple parts in a specific area of the skin. It can be diagnosed as Cutaneous squamous cell carcinoma (SCC) which usually begins as a tender erythematous papule or nodule that may have a variable amount of hyperkeratosis. Older lesions may ulcerate.
 
 These images of lesion and their descriptions highlights a few of our findings among a longer list of possible diagnosis in the dataset we have been provided with including melanocytic, melanoma, squamous cell carcinoma, Basal cell carcinoma, psoriasis, eczema, and dermatofibroma. 
+
+General information
+Skin lesions can be hereditary, for example moles or birthmarks. However, the most common cause of skin lesions is infection, such as herpes simplex, human immunodeficiency virus (HIV) or human papillomarvirus (HPV). Skin lesions can also occur due to allergic reactions, including reaction to medication such as corticosteroids or chemotherapy. Another way skin lesions can form is through external ways, such as sun exposure, insect bites, burns, circulation issues and vitamin deficiencies. However, along with these easily treatable lesions, lesiosn can also form due to systemic diseases, like autoimmune diseases, liver and kidney disease, some infectious diseases and of course cancer.
 
 Observations and conclusion
 After inspecting the images we have annotated them by coloring the lesion in label studio. Some of the images contained lesions that were difficult to annotate which made us skip them and focus on the ones where the lesions were clear and easy to annotate. However, this still resulted in over 100 images of lesion.
