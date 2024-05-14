@@ -14,6 +14,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, recall_score
+from sklearn.model_selection import GroupKFold
+
 np.random.seed(42)
 
 
@@ -29,19 +31,16 @@ df = pd.read_csv(Attributescsv_path, delimiter=',')
 X = df.drop(columns=['lesion_name', 'is_cancer_bool','patient_id'])  # Features - a new copy of df without name and cancer status
 y = df['is_cancer_bool']  # Target variable
 
-# Split the data into train and test sets
-x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
 
 # Define the parameter grid for grid search
 param_grid = {
-    'max_depth': [None, 10,15, 20,25, 30,40,50,60,70],  # Maximum depth of the tree
+    'max_depth': [10,15,20,25,30,40,50,60,70,80],  # Maximum depth of the tree
     'min_samples_split': [2, 5, 10],   # Minimum number of samples required to split an internal node
     'min_samples_leaf': [1, 2, 4]      # Minimum number of samples required to be at a leaf node
 }
 
 # Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,random_state=42)
 
 # Define the class weights
 class_weights = {
@@ -50,13 +49,17 @@ class_weights = {
 }
 
 # Initialize the Decision Tree classifier with class weights
-decision_tree = DecisionTreeClassifier(class_weight=class_weights)
+decision_tree = DecisionTreeClassifier(class_weight=class_weights,random_state=44)
 
 # Initialize GridSearchCV
-grid_search = GridSearchCV(decision_tree, param_grid, cv=5, n_jobs=-1, scoring='accuracy')
-
-# Perform grid search cross-validation
-grid_search.fit(X_train, y_train)
+# Prepare cross-validation
+group_kfold = GroupKFold(n_splits=5)
+#Prepare cross-validation - images from the same patient must always stay together
+groups_train = df.loc[X_train.index, 'patient_id']
+# Initialize GridSearchCV with the GroupKFold
+grid_search = GridSearchCV(decision_tree, param_grid, cv=group_kfold, n_jobs=-1, scoring='accuracy')
+# Perform grid search cross-validation 
+grid_search.fit(X_train, y_train, groups=groups_train)
 
 # Get the best model
 best_decision_tree = grid_search.best_estimator_
