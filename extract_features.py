@@ -10,7 +10,13 @@ import skimage.util as util
 from skimage.metrics import structural_similarity as ssim
     
 def measure_symmetry(image_path, mask_path):
+    """
+    Inpiration to finding longest axis for mask
+    https://stackoverflow.com/questions/73451279/how-to-get-the-long-short-axis-or-get-length-of-mask-at-a-point-orthogonal-to
     
+    Method to compare two images:
+    https://stackoverflow.com/questions/62585571/i-want-to-get-the-ssim-when-comparing-two-images-in-python
+    """
     # Load binary mask
     mask = cv2.imread(mask_path, cv2.IMREAD_GRAYSCALE)
     
@@ -43,7 +49,7 @@ def measure_symmetry(image_path, mask_path):
     symmetry_major = np.count_nonzero(intersection_major) / area_total
     symmetry_minor = np.count_nonzero(intersection_minor) / area_total
 
-    # Calculate overall symmetry score
+    # Calculate average overall symmetry score
     symmetry_score = 1 - 0.5 * (symmetry_major + symmetry_minor)
 
     # Extract masked area from image
@@ -138,6 +144,10 @@ def count_colors(image_path, mask_path):
     return temp+[color_sum]
 
 def classify_pixel_as_veil(rgb_img):
+    """
+    Inspiration:
+    https://link.springer.com/chapter/10.1007/978-3-642-40760-4_57
+    """
     veil_count = 0
     
     for i in range(rgb_img.shape[0]):
