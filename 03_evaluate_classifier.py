@@ -3,11 +3,11 @@ import pickle
 
 from extract_features import extract_features #our feature extraction
 
-# The function that should classify new images. 
-# The image and mask are the same size, and are already loaded using plt.imread
+# The function that classifies new images. 
+# The image and mask must be the same size, and only the filename must be given to the function
 def classify(img):
     """
-    Insert only name of image, must be of type ".png"    
+    Insert only filename of image, must be of type ".png" | File Structure must be in accordance with README
     """
         
      # Extract features (the same ones that we used for training)
