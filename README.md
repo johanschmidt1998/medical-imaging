@@ -1,12 +1,15 @@
 # How to Install and Run the Project
 
 ## Required folder structure to run files:
+```markdown
 ├── data
-│   ├── images         <- Images
+│   ├── images         <- Images Folder
+│   ├── Masks          <- Masks Folder
 │   └── metadata.csv   <- Labels, demographic variables etc
 │
 ├── fyp2024            <- Your project repository
 │
+```
 Note: Images and mask should be of type png
 
 
