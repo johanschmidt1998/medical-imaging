@@ -86,23 +86,81 @@ def avg_color_and_avg_std_dev(image_path, mask_path, lst_compactness):
     cropped_lesion = rgb_img[min_x:max_x, min_y:max_y]
 
     # Initialize lists to store average colors and standard deviations
-    avg_colors = []
     std_devs = []
 
-    # Perform SLIC segmentation and calculate average colors for the lesion
-    for c in lst_compactness:
-        labels = segmentation.slic(cropped_lesion, compactness=c, n_segments=30, sigma=3, start_label=1)
-        avg_color_lesion = np.mean(cropped_lesion[labels != 0], axis=0)
-        std_dev_lesion = np.std(cropped_lesion[labels != 0], axis=0)
-        avg_colors.append(avg_color_lesion)
-        std_devs.append(std_dev_lesion)
+    # Perform SLIC segmentation for one compactness level
+    compactness = lst_compactness[0]  # Assuming you're using the first compactness level
+    labels = segmentation.slic(cropped_lesion, compactness=compactness, n_segments=30, sigma=3, start_label=1)
 
-    # Calculate the average RGB values and standard deviations
-    avg_avg_colors = np.mean(avg_colors, axis=0)
-    avg_std_devs = np.mean(std_devs, axis=0)
+    # Calculate the color distribution in the cropped lesion
+    color_distribution = np.mean(cropped_lesion, axis=(0, 1))  # Calculate mean color over all pixels
 
-    return list(avg_avg_colors)+list(avg_std_devs)
+    # List to store values
+    deviations = []
+    Colours=[]
 
+        
+            # Iterate through segments
+    for segment_label in np.unique(labels):
+        if segment_label == 0:  # Skip background segment
+            continue
+
+        # Mask pixels belonging to the current segment
+        segment_mask = labels == segment_label
+
+        # Calculate the average color of the segment
+        avg_color_segment = np.mean(cropped_lesion[segment_mask], axis=0)
+        Colours.append(avg_color_segment)
+
+        # Calculate the standard deviation of the segment's color for each RGB channel
+        std_dev_segment = np.std(cropped_lesion[segment_mask], axis=0)
+
+        # Calculate the deviation of the segment's average color from the color distribution in the cropped lesion
+        #deviation = np.linalg.norm(avg_color_segment - color_distribution) / np.sqrt(np.sum(segment_mask))
+        deviation = []
+        for i in range(3):  # Iterate over RGB channels
+            channel_deviation = np.linalg.norm(avg_color_segment[i] - color_distribution[i]) / np.sqrt(np.sum(segment_mask))
+            deviation.append(channel_deviation)
+        # Append deviation to the list
+        deviations.append(deviation)
+
+        # Append standard deviation to the list
+        std_devs.append(std_dev_segment)
+
+
+    
+    
+    # Calculate the average values of each color channel
+    average_col = np.mean(Colours, axis=0)
+    # Extract mean values for each channel
+    mean1, mean2, mean3 = average_col
+    # Store mean values in a list
+    mean_col_list = [mean1, mean2, mean3]
+    
+    # Calculate the average values of each deviations channel
+    average_dev = np.mean(deviations, axis=0)
+    # Extract mean values for each channel
+    dev1, dev2, dev3 = average_dev
+    # Store mean values in a list
+    mean_dev_list = [dev1, dev2, dev3]
+    
+    # Calculate the max values of each deviations channel
+    max_dev = np.max(deviations, axis=0)
+    # Extract mean values for each channel
+    maxdev1, maxdev2, maxdev3 = max_dev
+    # Store mean values in a list
+    max_dev_list = [maxdev1, maxdev2, maxdev3]
+    
+        # Calculate the max values of each color channel
+    max_col = np.max(Colours, axis=0)
+    # Extract mean values for each channel
+    maxcol1, maxcol2, maxcol3 = max_col
+    # Store mean values in a list
+    max_col_list = [maxcol1, maxcol2, maxcol3]
+    
+    return(mean_col_list+max_col_list+mean_dev_list+max_dev_list)
+    
+    
 def count_colors(image_path, mask_path):
     # Load image
     image = cv2.imread(image_path)
@@ -141,7 +199,9 @@ def count_colors(image_path, mask_path):
             temp.append(0)
             
     color_sum = sum(temp)
-    return temp+[color_sum]
+    return temp+[color_sum]    
+    
+    return(mean_col_list+max_col_list+mean_dev_list+max_dev_list)
 
 def classify_pixel_as_veil(rgb_img):
     """

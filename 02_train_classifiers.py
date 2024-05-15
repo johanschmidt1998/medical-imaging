@@ -16,13 +16,14 @@ from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, recall_score
 from sklearn.model_selection import GroupKFold
 
+from process_images import csv_filepath
 np.random.seed(42)
 
 
 
 #File path, please update before running
 #metadata is not neccesary as all relevant info from there has been baked into the Attributes_final file
-Attributescsv_path="C:\\Users\\elias\\Downloads\\Attributes_final.csv"
+Attributescsv_path= csv_filepath
 
 
 # Read the CSV file into a DataFrame
