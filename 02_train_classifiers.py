@@ -15,7 +15,8 @@ np.random.seed(42)
 
 #File path, please update before running
 #metadata is not neccesary as all relevant info from there has been baked into the csv file
-Attributescsv_path = os.getcwd() + os.sep + "Attributes.csv"
+Attributescsv_path = os.getcwd() + os.sep + "features.csv" #if program crashes, change this to a file path
+
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(Attributescsv_path, delimiter=',')
