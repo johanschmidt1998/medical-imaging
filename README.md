@@ -15,11 +15,19 @@ Note: Images and mask should be of type png
 
 ## How To Run:
 ### Create model:
+## Instructions for Processing Images and Training Classifiers
 
-Markup : * Run "01_process_images.py" to extract the features from all of your images.
-         * The features then gets extracted into a csv file on your machine.
-         * Then run "02_train_classifiers.py" with the csv file
-         * Then save the model by running "03_evaluate_classifier.py"
+1. **Extract Features from Images:**
+   - Run `01_process_images.py` to extract features from your images.
+   - The extracted features will be saved into a CSV file on your local machine.
+
+2. **Train Classifiers:**
+   - After extracting features, execute `02_train_classifiers.py` with the CSV file generated in the previous step.
+
+3. **Save the Trained Model:**
+   - To save the trained classifier model, run `03_evaluate_classifier.py`.
+
+**Note:** Make sure to run these scripts sequentially in the given order for successful execution.
 
 
 
