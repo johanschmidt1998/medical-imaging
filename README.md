@@ -1,15 +1,12 @@
 # How to Install and Run the Project
 
 ## Required folder structure to run files:
-│
-├── fyp2024            <- Project repository With all the files (Your are here)  
-│
-├── data               <- Folder with all the images and masks you want to test
-│   ├── images         <- Images Folder
-│   ├── masks          <- Masks Folder
+├── data
+│   ├── images         <- Images
 │   └── metadata.csv   <- Labels, demographic variables etc
 │
-
+├── fyp2024            <- Your project repository
+│
 Note: Images and mask should be of type png
 
 
