@@ -1,4 +1,5 @@
-import pickle # loading your trained classifier
+# Loading the trained classifier
+import pickle
 
 from extract_features import extract_features #our feature extraction
 
@@ -12,7 +13,7 @@ def classify(img):
      # Extract features (the same ones that we used for training)
     x = extract_features(img)
     
-    #Load the trained classifier
+    # Load the trained classifier
     classifier = pickle.load(open('groupNJ_classifier.sav', 'rb'))
     
     # Use it on this example to predict the label AND posterior probability
