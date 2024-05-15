@@ -7,8 +7,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split, GroupKFold, GridSearchCV
 from sklearn.metrics import accuracy_score, confusion_matrix, recall_score
 
-# import filepath to csv file with the features from process_images
-from process_images import csv_filepath
+
 np.random.seed(42)
 
 
