@@ -117,19 +117,12 @@ def krippendorff_alpha(df,rating = None, method="nominal"):
 
     return (f'\n Krippendorff {method} alpha: {round(alpha,3)}')
 
-df = pd.read_csv("C:\\Users\\andre\\Downloads\\Annotation guide - Sheet1.csv")
-
-annotator1_data = df[df['Annotator'] == 'Annotator 1']
-annotator2_data = df[df['Annotator'] == 'Annotator 2']
-
-annotator1_list = annotator1_data.iloc[:, 2:].values.flatten().tolist()
-
-annotator2_list = annotator2_data.iloc[:, 2:].values.flatten().tolist()
-
-annotator_2 = {
+df = pd.read_csv("C:\\Users\\elias\\Desktop\\Projects in data science\\annotators_guide_proper_format.csv")
+annotator1_list = list(df['Annotator 1'])
+annotator2_list = list(df[ 'Annotator 2'])
+annotator_1and2 = {
         'anno_1': annotator1_list,
         'anno_2': annotator2_list} 
 
-df = pd.DataFrame.from_dict(annotator_2, orient='index')
-print(df)
+df = pd.DataFrame.from_dict(annotator_1and2, orient='index')
 print(krippendorff_alpha(df,rating = None, method="ordinal"))
