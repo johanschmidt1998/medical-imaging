@@ -22,14 +22,14 @@ np.random.seed(42)
 
 
 #File path, please update before running
-#metadata is not neccesary as all relevant info from there has been baked into the Attributes_final file
+#metadata is not neccesary as all relevant info from there has been baked into the csv file
 Attributescsv_path= csv_filepath
 
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(Attributescsv_path, delimiter=',')
 # Separate features (X) and target variable (y)
-X = df.drop(columns=['lesion_name', 'is_cancer_bool','patient_id'])  # Features - a new copy of df without name and cancer status
+X = df.drop(columns=['lesion_name', 'is_cancer_bool','patient_id', "max_col_red", "max_col_green", "max_col_blue","max_dev_red", "max_dev_green", "max_dev_blue"])  # Features - a new copy of df without name and cancer status
 y = df['is_cancer_bool']  # Target variable
 
 

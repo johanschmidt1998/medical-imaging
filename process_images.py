@@ -38,7 +38,7 @@ path_images = os.getcwd() + os.sep + "data" + os.sep + "images" + os.sep
 path_mask = os.getcwd() + os.sep + "data" + os.sep + "masks" + os.sep
    
 # Define the filename for the CSV file
-csv_filename = "new_features.csv"
+csv_filename = "features.csv"
 
 # Get the current working directory
 current_directory = os.getcwd()
