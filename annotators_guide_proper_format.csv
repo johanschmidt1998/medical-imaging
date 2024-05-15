@@ -1,0 +1,1057 @@
+Feature id,Annotator 1,Annotator 2
+PAT_32_44_211 : Color: white (1-2),2,2
+PAT_32_44_211 : Color: red,2,2
+PAT_32_44_211 : Color: Light brown,1,1
+PAT_32_44_211 : Color: Dark brown,1,1
+PAT_32_44_211 : Color: Green blue,1,1
+PAT_32_44_211 : Color: Black,1,1
+"PAT_32_44_211 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_32_44_211 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_32_44_211 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_32_44_211 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_32_44_211 : Blue white veil (1, 2)",1,1
+PAT_67_104_695 : Color: white (1-2),1,1
+PAT_67_104_695 : Color: red,2,1
+PAT_67_104_695 : Color: Light brown,2,2
+PAT_67_104_695 : Color: Dark brown,1,1
+PAT_67_104_695 : Color: Green blue,2,2
+PAT_67_104_695 : Color: Black,1,2
+"PAT_67_104_695 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_67_104_695 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_67_104_695 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_67_104_695 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_67_104_695 : Blue white veil (1, 2)",1,1
+PAT_88_133_64 : Color: white (1-2),1,1
+PAT_88_133_64 : Color: red,2,2
+PAT_88_133_64 : Color: Light brown,1,1
+PAT_88_133_64 : Color: Dark brown,1,1
+PAT_88_133_64 : Color: Green blue,1,1
+PAT_88_133_64 : Color: Black,1,1
+"PAT_88_133_64 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_88_133_64 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_88_133_64 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_88_133_64 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_88_133_64 : Blue white veil (1, 2)",1,1
+PAT_110_165_583 : Color: white (1-2),2,2
+PAT_110_165_583 : Color: red,2,2
+PAT_110_165_583 : Color: Light brown,1,1
+PAT_110_165_583 : Color: Dark brown,1,1
+PAT_110_165_583 : Color: Green blue,1,1
+PAT_110_165_583 : Color: Black,1,1
+"PAT_110_165_583 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_110_165_583 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_110_165_583 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_110_165_583 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_110_165_583 : Blue white veil (1, 2)",1,1
+PAT_126_190_376 : Color: white (1-2),2,1
+PAT_126_190_376 : Color: red,2,2
+PAT_126_190_376 : Color: Light brown,2,2
+PAT_126_190_376 : Color: Dark brown,1,1
+PAT_126_190_376 : Color: Green blue,1,1
+PAT_126_190_376 : Color: Black,1,2
+"PAT_126_190_376 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_126_190_376 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_126_190_376 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_126_190_376 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_126_190_376 : Blue white veil (1, 2)",1,1
+PAT_156_241_538 : Color: white (1-2),2,2
+PAT_156_241_538 : Color: red,2,2
+PAT_156_241_538 : Color: Light brown,2,2
+PAT_156_241_538 : Color: Dark brown,1,1
+PAT_156_241_538 : Color: Green blue,1,1
+PAT_156_241_538 : Color: Black,1,1
+"PAT_156_241_538 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_156_241_538 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_156_241_538 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_156_241_538 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_156_241_538 : Blue white veil (1, 2)",1,1
+PAT_163_254_719 : Color: white (1-2),2,2
+PAT_163_254_719 : Color: red,2,2
+PAT_163_254_719 : Color: Light brown,1,1
+PAT_163_254_719 : Color: Dark brown,1,1
+PAT_163_254_719 : Color: Green blue,1,1
+PAT_163_254_719 : Color: Black,2,2
+"PAT_163_254_719 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_163_254_719 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_163_254_719 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_163_254_719 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_163_254_719 : Blue white veil (1, 2)",1,1
+PAT_177_274_865 : Color: white (1-2),2,1
+PAT_177_274_865 : Color: red,2,2
+PAT_177_274_865 : Color: Light brown,1,1
+PAT_177_274_865 : Color: Dark brown,1,1
+PAT_177_274_865 : Color: Green blue,1,1
+PAT_177_274_865 : Color: Black,1,1
+"PAT_177_274_865 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_177_274_865 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_177_274_865 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_177_274_865 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_177_274_865 : Blue white veil (1, 2)",1,1
+PAT_197_301_449 : Color: white (1-2),1,1
+PAT_197_301_449 : Color: red,2,2
+PAT_197_301_449 : Color: Light brown,2,2
+PAT_197_301_449 : Color: Dark brown,2,1
+PAT_197_301_449 : Color: Green blue,1,1
+PAT_197_301_449 : Color: Black,1,1
+"PAT_197_301_449 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_197_301_449 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_197_301_449 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_197_301_449 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_197_301_449 : Blue white veil (1, 2)",1,1
+PAT_211_318_942 : Color: white (1-2),2,1
+PAT_211_318_942 : Color: red,2,2
+PAT_211_318_942 : Color: Light brown,2,1
+PAT_211_318_942 : Color: Dark brown,1,1
+PAT_211_318_942 : Color: Green blue,2,2
+PAT_211_318_942 : Color: Black,1,1
+"PAT_211_318_942 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_211_318_942 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_211_318_942 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_211_318_942 : Asymmetry of color (perpindecular axis, score from 1-2)",2,1
+"PAT_211_318_942 : Blue white veil (1, 2)",2,2
+PAT_261_401_911 : Color: white (1-2),2,2
+PAT_261_401_911 : Color: red,2,2
+PAT_261_401_911 : Color: Light brown,2,2
+PAT_261_401_911 : Color: Dark brown,2,1
+PAT_261_401_911 : Color: Green blue,1,1
+PAT_261_401_911 : Color: Black,1,1
+"PAT_261_401_911 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_261_401_911 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_261_401_911 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_261_401_911 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_261_401_911 : Blue white veil (1, 2)",1,1
+PAT_282_433_934 : Color: white (1-2),2,2
+PAT_282_433_934 : Color: red,2,2
+PAT_282_433_934 : Color: Light brown,2,2
+PAT_282_433_934 : Color: Dark brown,2,1
+PAT_282_433_934 : Color: Green blue,1,1
+PAT_282_433_934 : Color: Black,2,2
+"PAT_282_433_934 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_282_433_934 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_282_433_934 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_282_433_934 : Asymmetry of color (perpindecular axis, score from 1-2)",2,1
+"PAT_282_433_934 : Blue white veil (1, 2)",1,1
+PAT_299_1452_1 : Color: white (1-2),2,1
+PAT_299_1452_1 : Color: red,2,2
+PAT_299_1452_1 : Color: Light brown,1,1
+PAT_299_1452_1 : Color: Dark brown,1,1
+PAT_299_1452_1 : Color: Green blue,1,1
+PAT_299_1452_1 : Color: Black,1,1
+"PAT_299_1452_1 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_299_1452_1 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_299_1452_1 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_299_1452_1 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_299_1452_1 : Blue white veil (1, 2)",1,1
+PAT_303_652_342 : Color: white (1-2),2,2
+PAT_303_652_342 : Color: red,2,2
+PAT_303_652_342 : Color: Light brown,1,2
+PAT_303_652_342 : Color: Dark brown,2,2
+PAT_303_652_342 : Color: Green blue,1,1
+PAT_303_652_342 : Color: Black,1,1
+"PAT_303_652_342 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_303_652_342 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_303_652_342 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_303_652_342 : Asymmetry of color (perpindecular axis, score from 1-2)",2,1
+"PAT_303_652_342 : Blue white veil (1, 2)",1,1
+PAT_316_674_318 : Color: white (1-2),2,2
+PAT_316_674_318 : Color: red,2,1
+PAT_316_674_318 : Color: Light brown,1,1
+PAT_316_674_318 : Color: Dark brown,2,2
+PAT_316_674_318 : Color: Green blue,2,2
+PAT_316_674_318 : Color: Black,1,1
+"PAT_316_674_318 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_316_674_318 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_316_674_318 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_316_674_318 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_316_674_318 : Blue white veil (1, 2)",2,1
+PAT_320_681_724 : Color: white (1-2),1,1
+PAT_320_681_724 : Color: red,1,1
+PAT_320_681_724 : Color: Light brown,2,2
+PAT_320_681_724 : Color: Dark brown,2,2
+PAT_320_681_724 : Color: Green blue,1,1
+PAT_320_681_724 : Color: Black,2,2
+"PAT_320_681_724 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_320_681_724 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_320_681_724 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_320_681_724 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_320_681_724 : Blue white veil (1, 2)",1,1
+PAT_330_1437_458 : Color: white (1-2),2,2
+PAT_330_1437_458 : Color: red,2,2
+PAT_330_1437_458 : Color: Light brown,2,2
+PAT_330_1437_458 : Color: Dark brown,2,1
+PAT_330_1437_458 : Color: Green blue,1,1
+PAT_330_1437_458 : Color: Black,2,2
+"PAT_330_1437_458 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_330_1437_458 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_330_1437_458 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_330_1437_458 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_330_1437_458 : Blue white veil (1, 2)",1,1
+PAT_351_728_683 : Color: white (1-2),2,1
+PAT_351_728_683 : Color: red,2,2
+PAT_351_728_683 : Color: Light brown,2,2
+PAT_351_728_683 : Color: Dark brown,1,1
+PAT_351_728_683 : Color: Green blue,1,1
+PAT_351_728_683 : Color: Black,1,1
+"PAT_351_728_683 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_351_728_683 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_351_728_683 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_351_728_683 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_351_728_683 : Blue white veil (1, 2)",1,1
+PAT_352_729_947 : Color: white (1-2),1,1
+PAT_352_729_947 : Color: red,1,1
+PAT_352_729_947 : Color: Light brown,2,2
+PAT_352_729_947 : Color: Dark brown,2,2
+PAT_352_729_947 : Color: Green blue,1,1
+PAT_352_729_947 : Color: Black,2,2
+"PAT_352_729_947 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_352_729_947 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_352_729_947 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_352_729_947 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_352_729_947 : Blue white veil (1, 2)",1,1
+PAT_380_774_185 : Color: white (1-2),2,2
+PAT_380_774_185 : Color: red,2,2
+PAT_380_774_185 : Color: Light brown,2,2
+PAT_380_774_185 : Color: Dark brown,2,1
+PAT_380_774_185 : Color: Green blue,1,1
+PAT_380_774_185 : Color: Black,1,1
+"PAT_380_774_185 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_380_774_185 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_380_774_185 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_380_774_185 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_380_774_185 : Blue white veil (1, 2)",1,1
+PAT_386_784_470 : Color: white (1-2),1,1
+PAT_386_784_470 : Color: red,2,2
+PAT_386_784_470 : Color: Light brown,1,2
+PAT_386_784_470 : Color: Dark brown,1,1
+PAT_386_784_470 : Color: Green blue,1,1
+PAT_386_784_470 : Color: Black,1,1
+"PAT_386_784_470 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_386_784_470 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_386_784_470 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_386_784_470 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_386_784_470 : Blue white veil (1, 2)",1,1
+PAT_397_797_638 : Color: white (1-2),2,2
+PAT_397_797_638 : Color: red,2,2
+PAT_397_797_638 : Color: Light brown,1,1
+PAT_397_797_638 : Color: Dark brown,1,1
+PAT_397_797_638 : Color: Green blue,1,1
+PAT_397_797_638 : Color: Black,1,1
+"PAT_397_797_638 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_397_797_638 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_397_797_638 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_397_797_638 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_397_797_638 : Blue white veil (1, 2)",1,1
+PAT_402_803_739 : Color: white (1-2),1,1
+PAT_402_803_739 : Color: red,2,2
+PAT_402_803_739 : Color: Light brown,2,2
+PAT_402_803_739 : Color: Dark brown,1,1
+PAT_402_803_739 : Color: Green blue,1,1
+PAT_402_803_739 : Color: Black,2,2
+"PAT_402_803_739 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_402_803_739 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_402_803_739 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_402_803_739 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_402_803_739 : Blue white veil (1, 2)",1,1
+PAT_428_845_189 : Color: white (1-2),2,2
+PAT_428_845_189 : Color: red,2,2
+PAT_428_845_189 : Color: Light brown,2,2
+PAT_428_845_189 : Color: Dark brown,1,1
+PAT_428_845_189 : Color: Green blue,1,1
+PAT_428_845_189 : Color: Black,1,1
+"PAT_428_845_189 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_428_845_189 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_428_845_189 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_428_845_189 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_428_845_189 : Blue white veil (1, 2)",1,1
+PAT_456_888_961 : Color: white (1-2),2,2
+PAT_456_888_961 : Color: red,2,2
+PAT_456_888_961 : Color: Light brown,1,1
+PAT_456_888_961 : Color: Dark brown,1,1
+PAT_456_888_961 : Color: Green blue,1,1
+PAT_456_888_961 : Color: Black,1,1
+"PAT_456_888_961 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_456_888_961 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_456_888_961 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_456_888_961 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_456_888_961 : Blue white veil (1, 2)",1,1
+PAT_460_894_242 : Color: white (1-2),2,2
+PAT_460_894_242 : Color: red,2,2
+PAT_460_894_242 : Color: Light brown,2,2
+PAT_460_894_242 : Color: Dark brown,2,2
+PAT_460_894_242 : Color: Green blue,1,1
+PAT_460_894_242 : Color: Black,2,2
+"PAT_460_894_242 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_460_894_242 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_460_894_242 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_460_894_242 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_460_894_242 : Blue white veil (1, 2)",1,1
+PAT_477_915_389 : Color: white (1-2),1,1
+PAT_477_915_389 : Color: red,2,2
+PAT_477_915_389 : Color: Light brown,2,2
+PAT_477_915_389 : Color: Dark brown,1,1
+PAT_477_915_389 : Color: Green blue,1,1
+PAT_477_915_389 : Color: Black,1,1
+"PAT_477_915_389 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_477_915_389 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_477_915_389 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_477_915_389 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_477_915_389 : Blue white veil (1, 2)",1,1
+PAT_478_916_979 : Color: white (1-2),2,2
+PAT_478_916_979 : Color: red,2,2
+PAT_478_916_979 : Color: Light brown,1,1
+PAT_478_916_979 : Color: Dark brown,1,1
+PAT_478_916_979 : Color: Green blue,1,1
+PAT_478_916_979 : Color: Black,1,1
+"PAT_478_916_979 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_478_916_979 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_478_916_979 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_478_916_979 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_478_916_979 : Blue white veil (1, 2)",1,1
+PAT_481_923_186 : Color: white (1-2),2,2
+PAT_481_923_186 : Color: red,2,2
+PAT_481_923_186 : Color: Light brown,1,1
+PAT_481_923_186 : Color: Dark brown,1,1
+PAT_481_923_186 : Color: Green blue,1,1
+PAT_481_923_186 : Color: Black,1,1
+"PAT_481_923_186 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_481_923_186 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_481_923_186 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_481_923_186 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_481_923_186 : Blue white veil (1, 2)",1,1
+PAT_487_930_973 : Color: white (1-2),2,2
+PAT_487_930_973 : Color: red,2,2
+PAT_487_930_973 : Color: Light brown,2,2
+PAT_487_930_973 : Color: Dark brown,1,1
+PAT_487_930_973 : Color: Green blue,1,1
+PAT_487_930_973 : Color: Black,1,1
+"PAT_487_930_973 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_487_930_973 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_487_930_973 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_487_930_973 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_487_930_973 : Blue white veil (1, 2)",1,1
+PAT_504_953_569 : Color: white (1-2),1,1
+PAT_504_953_569 : Color: red,1,1
+PAT_504_953_569 : Color: Light brown,2,2
+PAT_504_953_569 : Color: Dark brown,2,2
+PAT_504_953_569 : Color: Green blue,2,1
+PAT_504_953_569 : Color: Black,1,1
+"PAT_504_953_569 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_504_953_569 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_504_953_569 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_504_953_569 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_504_953_569 : Blue white veil (1, 2)",1,1
+PAT_545_1029_650 : Color: white (1-2),1,1
+PAT_545_1029_650 : Color: red,2,2
+PAT_545_1029_650 : Color: Light brown,1,2
+PAT_545_1029_650 : Color: Dark brown,1,1
+PAT_545_1029_650 : Color: Green blue,1,1
+PAT_545_1029_650 : Color: Black,1,1
+"PAT_545_1029_650 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_545_1029_650 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_545_1029_650 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_545_1029_650 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_545_1029_650 : Blue white veil (1, 2)",1,1
+PAT_559_1093_774 : Color: white (1-2),2,2
+PAT_559_1093_774 : Color: red,2,2
+PAT_559_1093_774 : Color: Light brown,2,2
+PAT_559_1093_774 : Color: Dark brown,2,2
+PAT_559_1093_774 : Color: Green blue,2,2
+PAT_559_1093_774 : Color: Black,1,1
+"PAT_559_1093_774 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_559_1093_774 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_559_1093_774 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_559_1093_774 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_559_1093_774 : Blue white veil (1, 2)",2,2
+PAT_565_1073_749 : Color: white (1-2),1,1
+PAT_565_1073_749 : Color: red,2,2
+PAT_565_1073_749 : Color: Light brown,1,2
+PAT_565_1073_749 : Color: Dark brown,1,1
+PAT_565_1073_749 : Color: Green blue,1,1
+PAT_565_1073_749 : Color: Black,1,1
+"PAT_565_1073_749 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_565_1073_749 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_565_1073_749 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_565_1073_749 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_565_1073_749 : Blue white veil (1, 2)",1,1
+PAT_585_1130_552 : Color: white (1-2),2,2
+PAT_585_1130_552 : Color: red,1,1
+PAT_585_1130_552 : Color: Light brown,2,2
+PAT_585_1130_552 : Color: Dark brown,1,1
+PAT_585_1130_552 : Color: Green blue,2,1
+PAT_585_1130_552 : Color: Black,1,1
+"PAT_585_1130_552 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_585_1130_552 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_585_1130_552 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_585_1130_552 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_585_1130_552 : Blue white veil (1, 2)",1,1
+PAT_625_1184_412 : Color: white (1-2),1,1
+PAT_625_1184_412 : Color: red,2,1
+PAT_625_1184_412 : Color: Light brown,1,1
+PAT_625_1184_412 : Color: Dark brown,1,1
+PAT_625_1184_412 : Color: Green blue,2,2
+PAT_625_1184_412 : Color: Black,2,2
+"PAT_625_1184_412 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_625_1184_412 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_625_1184_412 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_625_1184_412 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_625_1184_412 : Blue white veil (1, 2)",1,1
+PAT_626_1187_34 : Color: white (1-2),2,2
+PAT_626_1187_34 : Color: red,2,2
+PAT_626_1187_34 : Color: Light brown,2,1
+PAT_626_1187_34 : Color: Dark brown,2,2
+PAT_626_1187_34 : Color: Green blue,1,1
+PAT_626_1187_34 : Color: Black,1,1
+"PAT_626_1187_34 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_626_1187_34 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_626_1187_34 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_626_1187_34 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_626_1187_34 : Blue white veil (1, 2)",1,1
+PAT_629_1192_362 : Color: white (1-2),2,2
+PAT_629_1192_362 : Color: red,2,2
+PAT_629_1192_362 : Color: Light brown,2,2
+PAT_629_1192_362 : Color: Dark brown,1,1
+PAT_629_1192_362 : Color: Green blue,1,1
+PAT_629_1192_362 : Color: Black,1,1
+"PAT_629_1192_362 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_629_1192_362 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_629_1192_362 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_629_1192_362 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_629_1192_362 : Blue white veil (1, 2)",1,1
+PAT_633_1199_745 : Color: white (1-2),1,1
+PAT_633_1199_745 : Color: red,2,2
+PAT_633_1199_745 : Color: Light brown,1,1
+PAT_633_1199_745 : Color: Dark brown,1,1
+PAT_633_1199_745 : Color: Green blue,1,1
+PAT_633_1199_745 : Color: Black,1,1
+"PAT_633_1199_745 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_633_1199_745 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_633_1199_745 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_633_1199_745 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_633_1199_745 : Blue white veil (1, 2)",1,1
+PAT_637_1434_684 : Color: white (1-2),2,2
+PAT_637_1434_684 : Color: red,2,2
+PAT_637_1434_684 : Color: Light brown,1,1
+PAT_637_1434_684 : Color: Dark brown,1,1
+PAT_637_1434_684 : Color: Green blue,1,1
+PAT_637_1434_684 : Color: Black,1,1
+"PAT_637_1434_684 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_637_1434_684 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_637_1434_684 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_637_1434_684 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_637_1434_684 : Blue white veil (1, 2)",1,1
+PAT_645_1222_860 : Color: white (1-2),1,1
+PAT_645_1222_860 : Color: red,2,2
+PAT_645_1222_860 : Color: Light brown,2,2
+PAT_645_1222_860 : Color: Dark brown,2,2
+PAT_645_1222_860 : Color: Green blue,1,1
+PAT_645_1222_860 : Color: Black,1,1
+"PAT_645_1222_860 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_645_1222_860 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_645_1222_860 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_645_1222_860 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_645_1222_860 : Blue white veil (1, 2)",1,1
+PAT_645_1223_443 : Color: white (1-2),1,1
+PAT_645_1223_443 : Color: red,2,2
+PAT_645_1223_443 : Color: Light brown,1,1
+PAT_645_1223_443 : Color: Dark brown,1,1
+PAT_645_1223_443 : Color: Green blue,1,1
+PAT_645_1223_443 : Color: Black,2,2
+"PAT_645_1223_443 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_645_1223_443 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_645_1223_443 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_645_1223_443 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_645_1223_443 : Blue white veil (1, 2)",1,1
+PAT_656_1246_483 : Color: white (1-2),1,1
+PAT_656_1246_483 : Color: red,1,1
+PAT_656_1246_483 : Color: Light brown,1,1
+PAT_656_1246_483 : Color: Dark brown,1,1
+PAT_656_1246_483 : Color: Green blue,1,1
+PAT_656_1246_483 : Color: Black,2,2
+"PAT_656_1246_483 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_656_1246_483 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_656_1246_483 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_656_1246_483 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_656_1246_483 : Blue white veil (1, 2)",1,1
+PAT_660_1249_469 : Color: white (1-2),1,1
+PAT_660_1249_469 : Color: red,2,2
+PAT_660_1249_469 : Color: Light brown,1,1
+PAT_660_1249_469 : Color: Dark brown,1,1
+PAT_660_1249_469 : Color: Green blue,1,1
+PAT_660_1249_469 : Color: Black,1,1
+"PAT_660_1249_469 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_660_1249_469 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_660_1249_469 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_660_1249_469 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_660_1249_469 : Blue white veil (1, 2)",1,1
+PAT_669_1265_76 : Color: white (1-2),1,2
+PAT_669_1265_76 : Color: red,2,2
+PAT_669_1265_76 : Color: Light brown,1,1
+PAT_669_1265_76 : Color: Dark brown,1,1
+PAT_669_1265_76 : Color: Green blue,2,2
+PAT_669_1265_76 : Color: Black,1,1
+"PAT_669_1265_76 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_669_1265_76 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_669_1265_76 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_669_1265_76 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_669_1265_76 : Blue white veil (1, 2)",2,1
+PAT_673_1276_752 : Color: white (1-2),1,1
+PAT_673_1276_752 : Color: red,2,2
+PAT_673_1276_752 : Color: Light brown,2,2
+PAT_673_1276_752 : Color: Dark brown,2,1
+PAT_673_1276_752 : Color: Green blue,1,1
+PAT_673_1276_752 : Color: Black,1,1
+"PAT_673_1276_752 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_673_1276_752 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_673_1276_752 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_673_1276_752 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_673_1276_752 : Blue white veil (1, 2)",1,1
+PAT_678_1298_396 : Color: white (1-2),2,2
+PAT_678_1298_396 : Color: red,2,2
+PAT_678_1298_396 : Color: Light brown,1,1
+PAT_678_1298_396 : Color: Dark brown,1,1
+PAT_678_1298_396 : Color: Green blue,1,1
+PAT_678_1298_396 : Color: Black,1,1
+"PAT_678_1298_396 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_678_1298_396 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_678_1298_396 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,1
+"PAT_678_1298_396 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_678_1298_396 : Blue white veil (1, 2)",1,1
+PAT_680_1289_585 : Color: white (1-2),1,1
+PAT_680_1289_585 : Color: red,1,1
+PAT_680_1289_585 : Color: Light brown,2,2
+PAT_680_1289_585 : Color: Dark brown,2,2
+PAT_680_1289_585 : Color: Green blue,1,1
+PAT_680_1289_585 : Color: Black,2,1
+"PAT_680_1289_585 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_680_1289_585 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_680_1289_585 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_680_1289_585 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_680_1289_585 : Blue white veil (1, 2)",1,1
+PAT_684_1303_178 : Color: white (1-2),2,2
+PAT_684_1303_178 : Color: red,2,2
+PAT_684_1303_178 : Color: Light brown,1,2
+PAT_684_1303_178 : Color: Dark brown,1,1
+PAT_684_1303_178 : Color: Green blue,2,2
+PAT_684_1303_178 : Color: Black,1,1
+"PAT_684_1303_178 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_684_1303_178 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_684_1303_178 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_684_1303_178 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_684_1303_178 : Blue white veil (1, 2)",1,1
+PAT_688_1305_242 : Color: white (1-2),1,1
+PAT_688_1305_242 : Color: red,2,2
+PAT_688_1305_242 : Color: Light brown,1,1
+PAT_688_1305_242 : Color: Dark brown,1,1
+PAT_688_1305_242 : Color: Green blue,1,1
+PAT_688_1305_242 : Color: Black,1,1
+"PAT_688_1305_242 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_688_1305_242 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_688_1305_242 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_688_1305_242 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_688_1305_242 : Blue white veil (1, 2)",1,1
+PAT_711_1334_480 : Color: white (1-2),1,1
+PAT_711_1334_480 : Color: red,2,2
+PAT_711_1334_480 : Color: Light brown,1,1
+PAT_711_1334_480 : Color: Dark brown,1,1
+PAT_711_1334_480 : Color: Green blue,1,2
+PAT_711_1334_480 : Color: Black,1,1
+"PAT_711_1334_480 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_711_1334_480 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_711_1334_480 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_711_1334_480 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_711_1334_480 : Blue white veil (1, 2)",1,1
+PAT_735_1391_261 : Color: white (1-2),2,2
+PAT_735_1391_261 : Color: red,2,1
+PAT_735_1391_261 : Color: Light brown,1,2
+PAT_735_1391_261 : Color: Dark brown,1,2
+PAT_735_1391_261 : Color: Green blue,2,1
+PAT_735_1391_261 : Color: Black,1,1
+"PAT_735_1391_261 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_735_1391_261 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_735_1391_261 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_735_1391_261 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_735_1391_261 : Blue white veil (1, 2)",1,1
+PAT_747_1409_116 : Color: white (1-2),2,2
+PAT_747_1409_116 : Color: red,2,2
+PAT_747_1409_116 : Color: Light brown,2,2
+PAT_747_1409_116 : Color: Dark brown,2,1
+PAT_747_1409_116 : Color: Green blue,1,1
+PAT_747_1409_116 : Color: Black,1,1
+"PAT_747_1409_116 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_747_1409_116 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_747_1409_116 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_747_1409_116 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_747_1409_116 : Blue white veil (1, 2)",1,1
+PAT_762_1436_414 : Color: white (1-2),2,2
+PAT_762_1436_414 : Color: red,2,2
+PAT_762_1436_414 : Color: Light brown,1,1
+PAT_762_1436_414 : Color: Dark brown,1,1
+PAT_762_1436_414 : Color: Green blue,1,1
+PAT_762_1436_414 : Color: Black,1,1
+"PAT_762_1436_414 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_762_1436_414 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_762_1436_414 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_762_1436_414 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_762_1436_414 : Blue white veil (1, 2)",1,1
+PAT_782_1492_890 : Color: white (1-2),2,2
+PAT_782_1492_890 : Color: red,2,2
+PAT_782_1492_890 : Color: Light brown,2,2
+PAT_782_1492_890 : Color: Dark brown,2,1
+PAT_782_1492_890 : Color: Green blue,2,2
+PAT_782_1492_890 : Color: Black,1,2
+"PAT_782_1492_890 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_782_1492_890 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_782_1492_890 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_782_1492_890 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_782_1492_890 : Blue white veil (1, 2)",1,1
+PAT_802_1516_510 : Color: white (1-2),2,2
+PAT_802_1516_510 : Color: red,2,1
+PAT_802_1516_510 : Color: Light brown,2,1
+PAT_802_1516_510 : Color: Dark brown,1,2
+PAT_802_1516_510 : Color: Green blue,1,2
+PAT_802_1516_510 : Color: Black,1,1
+"PAT_802_1516_510 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_802_1516_510 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_802_1516_510 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_802_1516_510 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_802_1516_510 : Blue white veil (1, 2)",1,1
+PAT_815_1536_963 : Color: white (1-2),1,1
+PAT_815_1536_963 : Color: red,2,2
+PAT_815_1536_963 : Color: Light brown,1,1
+PAT_815_1536_963 : Color: Dark brown,1,1
+PAT_815_1536_963 : Color: Green blue,1,1
+PAT_815_1536_963 : Color: Black,1,1
+"PAT_815_1536_963 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_815_1536_963 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_815_1536_963 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_815_1536_963 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_815_1536_963 : Blue white veil (1, 2)",1,1
+PAT_822_1550_132 : Color: white (1-2),2,2
+PAT_822_1550_132 : Color: red,2,2
+PAT_822_1550_132 : Color: Light brown,1,1
+PAT_822_1550_132 : Color: Dark brown,1,1
+PAT_822_1550_132 : Color: Green blue,1,1
+PAT_822_1550_132 : Color: Black,1,1
+"PAT_822_1550_132 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_822_1550_132 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_822_1550_132 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_822_1550_132 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_822_1550_132 : Blue white veil (1, 2)",1,1
+PAT_834_1574_276 : Color: white (1-2),2,2
+PAT_834_1574_276 : Color: red,2,2
+PAT_834_1574_276 : Color: Light brown,2,2
+PAT_834_1574_276 : Color: Dark brown,1,2
+PAT_834_1574_276 : Color: Green blue,2,1
+PAT_834_1574_276 : Color: Black,1,1
+"PAT_834_1574_276 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_834_1574_276 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_834_1574_276 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_834_1574_276 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_834_1574_276 : Blue white veil (1, 2)",1,1
+PAT_873_1661_178 : Color: white (1-2),1,2
+PAT_873_1661_178 : Color: red,2,2
+PAT_873_1661_178 : Color: Light brown,1,1
+PAT_873_1661_178 : Color: Dark brown,1,1
+PAT_873_1661_178 : Color: Green blue,1,1
+PAT_873_1661_178 : Color: Black,1,1
+"PAT_873_1661_178 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_873_1661_178 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_873_1661_178 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_873_1661_178 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_873_1661_178 : Blue white veil (1, 2)",1,1
+PAT_877_1667_118 : Color: white (1-2),2,2
+PAT_877_1667_118 : Color: red,2,2
+PAT_877_1667_118 : Color: Light brown,1,1
+PAT_877_1667_118 : Color: Dark brown,2,2
+PAT_877_1667_118 : Color: Green blue,1,1
+PAT_877_1667_118 : Color: Black,1,2
+"PAT_877_1667_118 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_877_1667_118 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_877_1667_118 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_877_1667_118 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_877_1667_118 : Blue white veil (1, 2)",1,1
+PAT_900_1711_622 : Color: white (1-2),1,1
+PAT_900_1711_622 : Color: red,1,1
+PAT_900_1711_622 : Color: Light brown,1,1
+PAT_900_1711_622 : Color: Dark brown,2,2
+PAT_900_1711_622 : Color: Green blue,1,1
+PAT_900_1711_622 : Color: Black,2,2
+"PAT_900_1711_622 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_900_1711_622 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_900_1711_622 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_900_1711_622 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_900_1711_622 : Blue white veil (1, 2)",1,1
+PAT_904_1736_851 : Color: white (1-2),2,2
+PAT_904_1736_851 : Color: red,2,2
+PAT_904_1736_851 : Color: Light brown,1,1
+PAT_904_1736_851 : Color: Dark brown,1,1
+PAT_904_1736_851 : Color: Green blue,1,1
+PAT_904_1736_851 : Color: Black,1,1
+"PAT_904_1736_851 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_904_1736_851 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_904_1736_851 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_904_1736_851 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_904_1736_851 : Blue white veil (1, 2)",1,1
+PAT_919_1744_451 : Color: white (1-2),2,2
+PAT_919_1744_451 : Color: red,2,2
+PAT_919_1744_451 : Color: Light brown,2,1
+PAT_919_1744_451 : Color: Dark brown,1,1
+PAT_919_1744_451 : Color: Green blue,1,2
+PAT_919_1744_451 : Color: Black,1,1
+"PAT_919_1744_451 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_919_1744_451 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_919_1744_451 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_919_1744_451 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_919_1744_451 : Blue white veil (1, 2)",1,1
+PAT_931_1762_69 : Color: white (1-2),2,2
+PAT_931_1762_69 : Color: red,2,2
+PAT_931_1762_69 : Color: Light brown,1,1
+PAT_931_1762_69 : Color: Dark brown,1,1
+PAT_931_1762_69 : Color: Green blue,1,1
+PAT_931_1762_69 : Color: Black,1,1
+"PAT_931_1762_69 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_931_1762_69 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_931_1762_69 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_931_1762_69 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_931_1762_69 : Blue white veil (1, 2)",1,1
+PAT_935_1785_530 : Color: white (1-2),2,2
+PAT_935_1785_530 : Color: red,2,2
+PAT_935_1785_530 : Color: Light brown,1,2
+PAT_935_1785_530 : Color: Dark brown,2,2
+PAT_935_1785_530 : Color: Green blue,1,1
+PAT_935_1785_530 : Color: Black,1,1
+"PAT_935_1785_530 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_935_1785_530 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_935_1785_530 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_935_1785_530 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_935_1785_530 : Blue white veil (1, 2)",1,1
+PAT_938_1790_977 : Color: white (1-2),1,1
+PAT_938_1790_977 : Color: red,2,2
+PAT_938_1790_977 : Color: Light brown,1,1
+PAT_938_1790_977 : Color: Dark brown,1,1
+PAT_938_1790_977 : Color: Green blue,1,2
+PAT_938_1790_977 : Color: Black,2,2
+"PAT_938_1790_977 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_938_1790_977 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_938_1790_977 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_938_1790_977 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_938_1790_977 : Blue white veil (1, 2)",1,1
+PAT_955_1810_892 : Color: white (1-2),2,2
+PAT_955_1810_892 : Color: red,2,2
+PAT_955_1810_892 : Color: Light brown,1,1
+PAT_955_1810_892 : Color: Dark brown,1,2
+PAT_955_1810_892 : Color: Green blue,1,1
+PAT_955_1810_892 : Color: Black,1,1
+"PAT_955_1810_892 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_955_1810_892 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_955_1810_892 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_955_1810_892 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_955_1810_892 : Blue white veil (1, 2)",1,1
+PAT_988_1858_453 : Color: white (1-2),2,2
+PAT_988_1858_453 : Color: red,2,2
+PAT_988_1858_453 : Color: Light brown,1,1
+PAT_988_1858_453 : Color: Dark brown,1,1
+PAT_988_1858_453 : Color: Green blue,1,1
+PAT_988_1858_453 : Color: Black,1,1
+"PAT_988_1858_453 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_988_1858_453 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_988_1858_453 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_988_1858_453 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_988_1858_453 : Blue white veil (1, 2)",1,1
+PAT_1113_458_387 : Color: white (1-2),2,2
+PAT_1113_458_387 : Color: red,1,1
+PAT_1113_458_387 : Color: Light brown,1,1
+PAT_1113_458_387 : Color: Dark brown,1,1
+PAT_1113_458_387 : Color: Green blue,2,2
+PAT_1113_458_387 : Color: Black,1,2
+"PAT_1113_458_387 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1113_458_387 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1113_458_387 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1113_458_387 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1113_458_387 : Blue white veil (1, 2)",1,1
+PAT_1138_520_154 : Color: white (1-2),1,1
+PAT_1138_520_154 : Color: red,2,2
+PAT_1138_520_154 : Color: Light brown,1,1
+PAT_1138_520_154 : Color: Dark brown,2,2
+PAT_1138_520_154 : Color: Green blue,1,1
+PAT_1138_520_154 : Color: Black,1,1
+"PAT_1138_520_154 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1138_520_154 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1138_520_154 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1138_520_154 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1138_520_154 : Blue white veil (1, 2)",1,1
+PAT_1180_651_559 : Color: white (1-2),2,1
+PAT_1180_651_559 : Color: red,2,2
+PAT_1180_651_559 : Color: Light brown,2,2
+PAT_1180_651_559 : Color: Dark brown,1,2
+PAT_1180_651_559 : Color: Green blue,1,1
+PAT_1180_651_559 : Color: Black,1,1
+"PAT_1180_651_559 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1180_651_559 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1180_651_559 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1180_651_559 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1180_651_559 : Blue white veil (1, 2)",1,1
+PAT_1186_681_457 : Color: white (1-2),2,2
+PAT_1186_681_457 : Color: red,1,1
+PAT_1186_681_457 : Color: Light brown,2,2
+PAT_1186_681_457 : Color: Dark brown,1,1
+PAT_1186_681_457 : Color: Green blue,1,1
+PAT_1186_681_457 : Color: Black,1,1
+"PAT_1186_681_457 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1186_681_457 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1186_681_457 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1186_681_457 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1186_681_457 : Blue white veil (1, 2)",1,1
+PAT_1220_765_464 : Color: white (1-2),1,1
+PAT_1220_765_464 : Color: red,2,2
+PAT_1220_765_464 : Color: Light brown,1,2
+PAT_1220_765_464 : Color: Dark brown,2,1
+PAT_1220_765_464 : Color: Green blue,1,1
+PAT_1220_765_464 : Color: Black,2,2
+"PAT_1220_765_464 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1220_765_464 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1220_765_464 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1220_765_464 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1220_765_464 : Blue white veil (1, 2)",1,1
+PAT_1286_1000_276 : Color: white (1-2),1,1
+PAT_1286_1000_276 : Color: red,1,1
+PAT_1286_1000_276 : Color: Light brown,1,2
+PAT_1286_1000_276 : Color: Dark brown,1,2
+PAT_1286_1000_276 : Color: Green blue,1,1
+PAT_1286_1000_276 : Color: Black,2,2
+"PAT_1286_1000_276 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1286_1000_276 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1286_1000_276 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1286_1000_276 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1286_1000_276 : Blue white veil (1, 2)",1,1
+PAT_1296_1038_1 : Color: white (1-2),2,2
+PAT_1296_1038_1 : Color: red,2,2
+PAT_1296_1038_1 : Color: Light brown,1,1
+PAT_1296_1038_1 : Color: Dark brown,1,1
+PAT_1296_1038_1 : Color: Green blue,1,1
+PAT_1296_1038_1 : Color: Black,1,1
+"PAT_1296_1038_1 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1296_1038_1 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1296_1038_1 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1296_1038_1 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1296_1038_1 : Blue white veil (1, 2)",1,1
+PAT_1305_1082_88 : Color: white (1-2),1,1
+PAT_1305_1082_88 : Color: red,1,1
+PAT_1305_1082_88 : Color: Light brown,1,2
+PAT_1305_1082_88 : Color: Dark brown,2,2
+PAT_1305_1082_88 : Color: Green blue,1,1
+PAT_1305_1082_88 : Color: Black,1,1
+"PAT_1305_1082_88 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1305_1082_88 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1305_1082_88 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1305_1082_88 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_1305_1082_88 : Blue white veil (1, 2)",1,1
+PAT_1351_1231_203 : Color: white (1-2),1,1
+PAT_1351_1231_203 : Color: red,2,2
+PAT_1351_1231_203 : Color: Light brown,1,1
+PAT_1351_1231_203 : Color: Dark brown,2,2
+PAT_1351_1231_203 : Color: Green blue,2,2
+PAT_1351_1231_203 : Color: Black,2,2
+"PAT_1351_1231_203 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1351_1231_203 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1351_1231_203 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1351_1231_203 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1351_1231_203 : Blue white veil (1, 2)",1,1
+PAT_1393_1355_316 : Color: white (1-2),2,2
+PAT_1393_1355_316 : Color: red,2,2
+PAT_1393_1355_316 : Color: Light brown,1,1
+PAT_1393_1355_316 : Color: Dark brown,1,1
+PAT_1393_1355_316 : Color: Green blue,1,1
+PAT_1393_1355_316 : Color: Black,1,1
+"PAT_1393_1355_316 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1393_1355_316 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1393_1355_316 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1393_1355_316 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1393_1355_316 : Blue white veil (1, 2)",1,1
+PAT_1468_1622_219 : Color: white (1-2),2,2
+PAT_1468_1622_219 : Color: red,1,2
+PAT_1468_1622_219 : Color: Light brown,1,1
+PAT_1468_1622_219 : Color: Dark brown,2,2
+PAT_1468_1622_219 : Color: Green blue,1,1
+PAT_1468_1622_219 : Color: Black,1,1
+"PAT_1468_1622_219 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1468_1622_219 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1468_1622_219 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1468_1622_219 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1468_1622_219 : Blue white veil (1, 2)",1,1
+PAT_1475_1651_727 : Color: white (1-2),2,2
+PAT_1475_1651_727 : Color: red,2,2
+PAT_1475_1651_727 : Color: Light brown,2,1
+PAT_1475_1651_727 : Color: Dark brown,1,1
+PAT_1475_1651_727 : Color: Green blue,1,1
+PAT_1475_1651_727 : Color: Black,1,1
+"PAT_1475_1651_727 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1475_1651_727 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1475_1651_727 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1475_1651_727 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_1475_1651_727 : Blue white veil (1, 2)",1,1
+PAT_1534_1809_366 : Color: white (1-2),1,1
+PAT_1534_1809_366 : Color: red,1,2
+PAT_1534_1809_366 : Color: Light brown,1,1
+PAT_1534_1809_366 : Color: Dark brown,2,2
+PAT_1534_1809_366 : Color: Green blue,1,1
+PAT_1534_1809_366 : Color: Black,1,1
+"PAT_1534_1809_366 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1534_1809_366 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1534_1809_366 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1534_1809_366 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1534_1809_366 : Blue white veil (1, 2)",1,1
+PAT_1563_2426_436 : Color: white (1-2),2,2
+PAT_1563_2426_436 : Color: red,2,2
+PAT_1563_2426_436 : Color: Light brown,1,1
+PAT_1563_2426_436 : Color: Dark brown,1,1
+PAT_1563_2426_436 : Color: Green blue,2,2
+PAT_1563_2426_436 : Color: Black,1,1
+"PAT_1563_2426_436 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1563_2426_436 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1563_2426_436 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1563_2426_436 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1563_2426_436 : Blue white veil (1, 2)",1,1
+PAT_1577_2543_510 : Color: white (1-2),2,2
+PAT_1577_2543_510 : Color: red,1,2
+PAT_1577_2543_510 : Color: Light brown,2,1
+PAT_1577_2543_510 : Color: Dark brown,2,2
+PAT_1577_2543_510 : Color: Green blue,1,1
+PAT_1577_2543_510 : Color: Black,2,2
+"PAT_1577_2543_510 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1577_2543_510 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1577_2543_510 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1577_2543_510 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1577_2543_510 : Blue white veil (1, 2)",1,1
+PAT_1603_2704_969 : Color: white (1-2),2,2
+PAT_1603_2704_969 : Color: red,1,1
+PAT_1603_2704_969 : Color: Light brown,1,2
+PAT_1603_2704_969 : Color: Dark brown,2,2
+PAT_1603_2704_969 : Color: Green blue,1,1
+PAT_1603_2704_969 : Color: Black,1,1
+"PAT_1603_2704_969 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1603_2704_969 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1603_2704_969 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1603_2704_969 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_1603_2704_969 : Blue white veil (1, 2)",1,1
+PAT_1728_3234_404 : Color: white (1-2),1,2
+PAT_1728_3234_404 : Color: red,2,2
+PAT_1728_3234_404 : Color: Light brown,1,2
+PAT_1728_3234_404 : Color: Dark brown,2,2
+PAT_1728_3234_404 : Color: Green blue,1,1
+PAT_1728_3234_404 : Color: Black,1,1
+"PAT_1728_3234_404 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_1728_3234_404 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_1728_3234_404 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1728_3234_404 : Asymmetry of color (perpindecular axis, score from 1-2)",2,2
+"PAT_1728_3234_404 : Blue white veil (1, 2)",1,1
+PAT_1755_3310_986 : Color: white (1-2),2,2
+PAT_1755_3310_986 : Color: red,2,1
+PAT_1755_3310_986 : Color: Light brown,1,1
+PAT_1755_3310_986 : Color: Dark brown,1,1
+PAT_1755_3310_986 : Color: Green blue,1,1
+PAT_1755_3310_986 : Color: Black,1,1
+"PAT_1755_3310_986 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1755_3310_986 : Asymmetry of color (longest axis, score from 1-2)",2,1
+"PAT_1755_3310_986 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_1755_3310_986 : Asymmetry of color (perpindecular axis, score from 1-2)",2,1
+"PAT_1755_3310_986 : Blue white veil (1, 2)",1,1
+PAT_1940_3902_876 : Color: white (1-2),1,1
+PAT_1940_3902_876 : Color: red,1,1
+PAT_1940_3902_876 : Color: Light brown,2,2
+PAT_1940_3902_876 : Color: Dark brown,1,1
+PAT_1940_3902_876 : Color: Green blue,1,1
+PAT_1940_3902_876 : Color: Black,1,1
+"PAT_1940_3902_876 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,2
+"PAT_1940_3902_876 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_1940_3902_876 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_1940_3902_876 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_1940_3902_876 : Blue white veil (1, 2)",1,1
+PAT_1975_3999_453 : Color: white (1-2),1,1
+PAT_1975_3999_453 : Color: red,1,1
+PAT_1975_3999_453 : Color: Light brown,1,2
+PAT_1975_3999_453 : Color: Dark brown,2,2
+PAT_1975_3999_453 : Color: Green blue,1,1
+PAT_1975_3999_453 : Color: Black,1,1
+"PAT_1975_3999_453 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_1975_3999_453 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_1975_3999_453 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_1975_3999_453 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_1975_3999_453 : Blue white veil (1, 2)",1,1
+PAT_2003_4107_766 : Color: white (1-2),2,2
+PAT_2003_4107_766 : Color: red,2,2
+PAT_2003_4107_766 : Color: Light brown,1,1
+PAT_2003_4107_766 : Color: Dark brown,1,1
+PAT_2003_4107_766 : Color: Green blue,1,1
+PAT_2003_4107_766 : Color: Black,1,1
+"PAT_2003_4107_766 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2003_4107_766 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_2003_4107_766 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_2003_4107_766 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_2003_4107_766 : Blue white veil (1, 2)",1,1
+PAT_2016_4156_941 : Color: white (1-2),1,2
+PAT_2016_4156_941 : Color: red,2,2
+PAT_2016_4156_941 : Color: Light brown,2,2
+PAT_2016_4156_941 : Color: Dark brown,2,2
+PAT_2016_4156_941 : Color: Green blue,1,1
+PAT_2016_4156_941 : Color: Black,1,1
+"PAT_2016_4156_941 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",2,2
+"PAT_2016_4156_941 : Asymmetry of color (longest axis, score from 1-2)",1,2
+"PAT_2016_4156_941 : Asymmetry of shape (perpindecular axis, score from 1-2)",2,2
+"PAT_2016_4156_941 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_2016_4156_941 : Blue white veil (1, 2)",1,1
+PAT_2020_4176_865 : Color: white (1-2),2,2
+PAT_2020_4176_865 : Color: red,1,1
+PAT_2020_4176_865 : Color: Light brown,1,1
+PAT_2020_4176_865 : Color: Dark brown,2,2
+PAT_2020_4176_865 : Color: Green blue,1,1
+PAT_2020_4176_865 : Color: Black,1,1
+"PAT_2020_4176_865 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2020_4176_865 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_2020_4176_865 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_2020_4176_865 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_2020_4176_865 : Blue white veil (1, 2)",2,1
+PAT_2034_4266_880 : Color: white (1-2),2,2
+PAT_2034_4266_880 : Color: red,2,2
+PAT_2034_4266_880 : Color: Light brown,2,1
+PAT_2034_4266_880 : Color: Dark brown,2,1
+PAT_2034_4266_880 : Color: Green blue,1,1
+PAT_2034_4266_880 : Color: Black,1,1
+"PAT_2034_4266_880 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2034_4266_880 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_2034_4266_880 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_2034_4266_880 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_2034_4266_880 : Blue white veil (1, 2)",1,1
+PAT_2093_4542_192 : Color: white (1-2),2,2
+PAT_2093_4542_192 : Color: red,1,1
+PAT_2093_4542_192 : Color: Light brown,1,1
+PAT_2093_4542_192 : Color: Dark brown,1,1
+PAT_2093_4542_192 : Color: Green blue,1,1
+PAT_2093_4542_192 : Color: Black,1,1
+"PAT_2093_4542_192 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2093_4542_192 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_2093_4542_192 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,2
+"PAT_2093_4542_192 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_2093_4542_192 : Blue white veil (1, 2)",1,1
+PAT_2099_4562_100 : Color: white (1-2),2,2
+PAT_2099_4562_100 : Color: red,1,1
+PAT_2099_4562_100 : Color: Light brown,2,2
+PAT_2099_4562_100 : Color: Dark brown,1,1
+PAT_2099_4562_100 : Color: Green blue,1,1
+PAT_2099_4562_100 : Color: Black,1,1
+"PAT_2099_4562_100 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2099_4562_100 : Asymmetry of color (longest axis, score from 1-2)",2,2
+"PAT_2099_4562_100 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_2099_4562_100 : Asymmetry of color (perpindecular axis, score from 1-2)",1,2
+"PAT_2099_4562_100 : Blue white veil (1, 2)",1,1
+PAT_2129_4680_110 : Color: white (1-2),1,1
+PAT_2129_4680_110 : Color: red,1,1
+PAT_2129_4680_110 : Color: Light brown,1,1
+PAT_2129_4680_110 : Color: Dark brown,2,2
+PAT_2129_4680_110 : Color: Green blue,1,1
+PAT_2129_4680_110 : Color: Black,1,1
+"PAT_2129_4680_110 : Asymmetry of shape (longest axis, score from 1-2) (2 means yes)",1,1
+"PAT_2129_4680_110 : Asymmetry of color (longest axis, score from 1-2)",1,1
+"PAT_2129_4680_110 : Asymmetry of shape (perpindecular axis, score from 1-2)",1,1
+"PAT_2129_4680_110 : Asymmetry of color (perpindecular axis, score from 1-2)",1,1
+"PAT_2129_4680_110 : Blue white veil (1, 2)",1,1
