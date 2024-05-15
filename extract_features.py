@@ -1,12 +1,8 @@
 import os
 import cv2
-import numpy as np
-import matplotlib.pyplot as plt
-from skimage import segmentation, color
 import csv
-from skimage.feature import graycomatrix, graycoprops
-from skimage import io, color, img_as_ubyte
-import skimage.util as util
+import numpy as np
+from skimage import io, color, img_as_ubyte, segmentation
 from skimage.metrics import structural_similarity as ssim
     
 def measure_symmetry(image_path, mask_path):

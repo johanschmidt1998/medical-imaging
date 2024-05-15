@@ -16,15 +16,11 @@ Images and masks must be of type "png"
 """
 
 import os
-import cv2
-import numpy as np
-import matplotlib.pyplot as plt
-from skimage import segmentation, color
 import csv
-from skimage.feature import graycomatrix, graycoprops
-from skimage import io, color, img_as_ubyte
-import skimage.util as util
+import cv2
+from skimage import io
 from skimage.metrics import structural_similarity as ssim
+
 # Import our own file that has the feature extraction functions
 from extract_features import extract_features
 

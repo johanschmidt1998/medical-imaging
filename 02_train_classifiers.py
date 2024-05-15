@@ -1,21 +1,13 @@
 # Import libraries
 import os
-import pickle 
+import pickle
 import numpy as np
 import pandas as pd
-from sklearn.svm import LinearSVC
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import confusion_matrix
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.datasets import make_classification
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.model_selection import train_test_split, GroupKFold, GridSearchCV
 from sklearn.metrics import accuracy_score, confusion_matrix, recall_score
-from sklearn.model_selection import GroupKFold
 
+# import filepath to csv file with the features from process_images
 from process_images import csv_filepath
 np.random.seed(42)
 
