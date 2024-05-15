@@ -53,8 +53,12 @@ if __name__ == '__main__':
     for filename in os.listdir(path_images):
         if filename.endswith('.jpg') or filename.endswith('.png'):  # Adjust file extensions as needed
             filename = filename.replace(".png","")
-            features = extract_features(filename)
-            image_features[filename]= features
+            if (filename + "_mask.png") in os.listdir(path_mask):
+                features = extract_features(filename)
+                image_features[filename]= features
+            else:
+                print("Mask not found for image")
+                continue
 
     # Get diagnostic from metadata and petient id
     def get_diagnostic(image):
