@@ -40,7 +40,7 @@ csv_filename = "features.csv"
 current_directory = os.getcwd()
 
 # Construct the full path to the CSV file
-csv_filepath = os.path.join(current_directory, csv_filename)
+csv_filepath = os.getcwd() + os.sep + "features" + os.sep + csv_filename
 
 if __name__ == '__main__':
     image_features = {}
@@ -81,7 +81,7 @@ if __name__ == '__main__':
     print("Empty CSV file created at:", csv_filepath)   
 
     # Headers for the CSV
-    feature_names = ["lesion_name", "symmetry_major", "symmetry_minor", "ssim_major", "ssim_minor", "symmetry_score", "color_symmetry_score", "mean_col_red", "mean_col_green", "mean_col_blue", "max_col_red", "max_col_green", "max_col_blue","mean_dev_red","mean_dev_green", "mean_dev_blue", "max_dev_red", "max_dev_green", "max_dev_blue", "white", "red", "light_brown", "dark_brown", "blue_gray", "black","color_sum", "blue_white_veil_score", "Haralick_contrast", "Haralick_dissimilarity", "Haralick_homogeneity", "Haralick_energy", "Haralick_correlation", "is_cancer_bool", "patient_id"]
+    feature_names = ["lesion_name", "symmetry_major", "symmetry_minor", "ssim_major", "ssim_minor", "symmetry_score", "color_symmetry_score", "mean_col_red", "mean_col_green", "mean_col_blue", "mean_dev_red","mean_dev_green", "mean_dev_blue", "white", "red", "light_brown", "dark_brown", "blue_gray", "black","color_sum", "blue_white_veil_score", "Haralick_contrast", "Haralick_dissimilarity", "Haralick_homogeneity", "Haralick_energy", "Haralick_correlation", "is_cancer_bool", "patient_id"]
 
 
     # Write row names to the CSV file

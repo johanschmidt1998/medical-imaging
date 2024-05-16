@@ -2,7 +2,11 @@ import os
 import cv2
 import csv
 import numpy as np
-from skimage import io, color, img_as_ubyte, segmentation
+import matplotlib.pyplot as plt
+from skimage import segmentation, color
+from skimage.feature import graycomatrix, graycoprops
+from skimage import io, color, img_as_ubyte
+import skimage.util as util
 from skimage.metrics import structural_similarity as ssim
     
 def measure_symmetry(image_path, mask_path):
@@ -140,21 +144,8 @@ def avg_color_and_avg_std_dev(image_path, mask_path, lst_compactness):
     # Store mean values in a list
     mean_dev_list = [dev1, dev2, dev3]
     
-    # Calculate the max values of each deviations channel
-    max_dev = np.max(deviations, axis=0)
-    # Extract mean values for each channel
-    maxdev1, maxdev2, maxdev3 = max_dev
-    # Store mean values in a list
-    max_dev_list = [maxdev1, maxdev2, maxdev3]
     
-        # Calculate the max values of each color channel
-    max_col = np.max(Colours, axis=0)
-    # Extract mean values for each channel
-    maxcol1, maxcol2, maxcol3 = max_col
-    # Store mean values in a list
-    max_col_list = [maxcol1, maxcol2, maxcol3]
-    
-    return(mean_col_list+max_col_list+mean_dev_list+max_dev_list)
+    return(mean_col_list+mean_dev_list)
     
     
 def count_colors(image_path, mask_path):
