@@ -12,6 +12,8 @@
 ```
 Note: Images and mask should be of type png
 
+Note: Masks must also contain same name as image but need "_mask" at the end
+
 
 ## How To Run:
 ### Create model:
