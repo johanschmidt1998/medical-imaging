@@ -4,7 +4,7 @@
 ```markdown
 ├── data
 │   ├── images         <- Images Folder
-│   ├── Masks          <- Masks Folder
+│   ├── masks          <- masks Folder
 │   └── metadata.csv   <- Labels, demographic variables etc
 │
 ├── fyp2024            <- Your project repository
