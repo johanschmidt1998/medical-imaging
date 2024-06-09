@@ -1,4 +1,5 @@
 import os
+import os
 import cv2
 import csv
 import numpy as np
@@ -8,7 +9,8 @@ from skimage.feature import graycomatrix, graycoprops
 from skimage import io, color, img_as_ubyte
 import skimage.util as util
 from skimage.metrics import structural_similarity as ssim
-    
+from scipy.ndimage import rotate
+
 def measure_symmetry(image_path, mask_path):
     """
     Inpiration to finding longest axis for mask
@@ -31,35 +33,50 @@ def measure_symmetry(image_path, mask_path):
 
     # Compute major and minor axis using PCA
     masked_pixels = np.transpose(np.nonzero(mask))
-    com_x, com_y = np.mean(masked_pixels, axis=0)
     cov_matrix = np.cov(masked_pixels, rowvar=False)
     _, eigenvectors = np.linalg.eigh(cov_matrix)
     pc1_x, pc1_y = eigenvectors[:, 0]  # Major axis
     pc2_x, pc2_y = eigenvectors[:, 1]  # Minor axis
 
-    # Flip mask over the major and minor axes
-    mask_major_axis = np.fliplr(mask)  # Horizontal flip (major axis)
-    mask_minor_axis = np.flipud(mask)  # Vertical flip (minor axis)
+    # Calculate angles of the principal components
+    angle_pc1 = np.arctan2(pc1_x, pc1_y) * 180 / np.pi
+    angle_pc2 = np.arctan2(pc2_x, pc2_y) * 180 / np.pi
 
-    # Calculate intersection areas between original and flipped mask
-    intersection_major = mask & mask_major_axis
-    intersection_minor = mask & mask_minor_axis
-
-    # Calculate symmetry scores
+    # Rotate the mask to align with the major and minor axis
+    rotated_mask_major = rotate(mask, angle=angle_pc1)
+    rotated_mask_minor = rotate(mask, angle=angle_pc2)
+    
+    # Flip image across axis to compare 
+    flipped_mask_major_axis = np.fliplr(rotated_mask_major)
+    flipped_mask_minor_axis = np.fliplr(rotated_mask_minor)
+    
+    # Calculate intersection areas between original and rotated mask
+    intersection_major = np.logical_and(rotated_mask_major, flipped_mask_major_axis)
+    intersection_minor = np.logical_and(rotated_mask_minor, flipped_mask_minor_axis)
+    
+     # Calculate symmetry scores
     symmetry_major = np.count_nonzero(intersection_major) / area_total
     symmetry_minor = np.count_nonzero(intersection_minor) / area_total
 
     # Calculate average overall symmetry score
     symmetry_score = 1 - 0.5 * (symmetry_major + symmetry_minor)
-
-    # Extract masked area from image
-    masked_region = original_image[mask > 0]
-    masked_major_axis = original_image[mask_major_axis > 0]
-    masked_minor_axis = original_image[mask_minor_axis > 0]
+    
+    # Rotate the original image along axis
+    rotated_image_major = rotate(original_image, angle=angle_pc1)
+    rotated_image_minor = rotate(original_image, angle=angle_pc2)
+    
+    
+    # Get masked areas from rotated image
+    masked_area_major_axis = rotated_image_major[rotated_mask_major > 0]
+    masked_area_minor_axis = rotated_image_minor[rotated_mask_minor > 0]
+    
+    # Flip masked area to compare
+    flipped_masked_area_major_axis = rotated_image_major[flipped_mask_major_axis > 0]
+    flipped_masked_area_minor_axis = rotated_image_minor[flipped_mask_minor_axis > 0]    
 
     # Calculate SSIM for color similarity
-    ssim_major = ssim(masked_region, masked_major_axis, win_size=min(masked_region.shape[0], masked_region.shape[1]), multichannel=True)
-    ssim_minor = ssim(masked_region, masked_minor_axis, win_size=min(masked_region.shape[0], masked_region.shape[1]), multichannel=True)
+    ssim_major = ssim(masked_area_major_axis, flipped_masked_area_major_axis, win_size=min(masked_area_major_axis.shape[0], masked_area_major_axis.shape[1]), multichannel=True)
+    ssim_minor = ssim(masked_area_minor_axis, flipped_masked_area_minor_axis, win_size=min(masked_area_minor_axis.shape[0], masked_area_minor_axis.shape[1]), multichannel=True)
 
     # Calculate color symmetry 
     color_symmetry_score = 1 - 0.5 * (ssim_major + ssim_minor)
