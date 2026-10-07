@@ -1,3 +1,19 @@
+# Skin Lesion Cancer Classification
+
+Classifying skin lesions as cancerous or non-cancerous from clinical photographs, using hand-engineered dermatological features rather than a learned feature extractor. Dataset: PAD-UFES-20, 222 images after cleaning and manual masking. ITU group project, spring 2024.
+
+## Results
+
+Decision tree over five features (asymmetry, colour count, colour variability, blue-white veil, Haralick texture), tuned by grid search with patient-level GroupKFold splits and class weights favouring cancer-positive cases.
+
+| Metric | Value |
+|---|---|
+| Accuracy | 0.733 |
+| Recall (sensitivity) | 0.92 |
+| Specificity | 0.50 |
+
+The model is weighted towards recall, because missing a cancerous lesion costs more than a false positive. Blue-white veil and Haralick contributed little to the final tree. A CNN learning its own features would likely outperform this approach.
+
 # How to Install and Run the Project
 
 ## Required folder structure to run files:
